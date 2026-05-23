@@ -321,6 +321,6 @@ MIT License — free to use and modify.
 
 ## 👨‍💻 Author
 
-Built by **Mohammed** — Information Science Engineering Student, MCEM Mysore (2026)
+Built by Vicky Kumar — CSE Student, RR Institute of Technology (2026)
 
 > ⭐ If you found this project helpful, please give it a star on GitHub!
