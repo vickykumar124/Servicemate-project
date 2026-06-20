@@ -317,7 +317,8 @@ http://localhost:5173
 
 ## 📄 License
 
-MIT License — free to use and modify.
+RRIT
+License — free to use and modify.
 
 ## 👨‍💻 Author
 
